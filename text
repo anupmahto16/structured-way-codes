@@ -1,0 +1,16 @@
+                          The Structured Codes 
+
+ To assess the structure of your code, I’d need to review it. Here are some general tips for well-structured code-
+
+     1.Modularity - Break your code into clear, separate functions or modules that can be reused across different parts of your program. This method makes your code easier to read, debug, and maintain by keeping it organized and manageable.
+
+    2.Consistency: Apply the same naming conventions, indentation style, and formatting throughout your code. This uniformity makes your code easier to read, understand, and maintain, and helps avoid confusion.
+
+    3.Readability: Use clear comments and choose descriptive names for variables and functions. This helps others, and your future self, understand the code more easily, even if they’re not familiar with it. Additionally, maintain a logical flow and avoid complex logic in single lines.
+
+    4.Error Handling: Implement thorough error handling to manage unexpected situations gracefully. This involves anticipating potential issues, providing informative error messages, and ensuring your code can recover or fail safely, which improves reliability and user experience.
+
+    5.Testing: Develop tests to confirm that your code behaves as intended and fulfills its specifications. Regularly executing these tests identifies issues early and prevents regressions, ensuring that updates or new features do not disrupt existing functionality.
+
+    6.Documentation: Provide detailed documentation or comments to explain the purpose and functionality of complex code sections or algorithms. This aids understanding, simplifies future maintenance, and ensures clarity for anyone working with the code.
+
